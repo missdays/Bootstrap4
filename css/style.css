@@ -27,6 +27,23 @@ body {
 
 .features-container {}
 
+/* Block dividers */
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #444;
+}
+
+.block-divider--orange {
+    background-color: #f05f40;
+}
+
+.block-divider--short {
+    width: 35px;
+}
+
 /* Jumbotron */
 
 .jumbotron {
