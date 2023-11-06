@@ -1,3 +1,14 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+/* Containers */
+.alert-container {}
+
+.callout-container {}
+
+.opaque-overlay {}
+
+.quotes-container {}
+
+.features-container {}
