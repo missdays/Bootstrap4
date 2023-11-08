@@ -50,10 +50,6 @@ body {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.quotes-container {}
-
-.features-container {}
-
 /* Page Headers */
 
 .page-header {
@@ -169,6 +165,12 @@ body {
     background-color: #df4929;
     border-color: #df4929;
     color: white;
+}
+
+/* Quotes */
+
+.quotes .page-header {
+    margin-bottom: 25px;
 }
 
 /* Features */
