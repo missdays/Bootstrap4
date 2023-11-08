@@ -3,6 +3,13 @@ body {
 }
 
 /* Containers */
+.container-wrapper {}
+
+.container-wrapper--red {
+    background-color: #f05f40;
+    color: white;
+}
+
 .alert-container .col-12 {
     padding-left: 0;
     padding-right: 0;
@@ -47,6 +54,18 @@ body {
 
 .features-container {}
 
+/* Page Headers */
+
+.page-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-top: 0;
+}
+
 /* Block dividers */
 
 .block-divider {
@@ -62,6 +81,13 @@ body {
 
 .block-divider--short {
     width: 35px;
+}
+
+/* Content Container */
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
 
 /* Navbar */
